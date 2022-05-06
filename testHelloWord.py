@@ -1,3 +1,4 @@
+print(0)
 # def std(nums):
 #     n = len(nums)
 #     avg = sum(nums) / n
