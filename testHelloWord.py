@@ -1,4 +1,13 @@
-print(0)
+a = [(1, 2), (4, 1), (9, 10), (13, -3)]
+
+a.sort(key=lambda x: x[0])
+
+print(a)
+# list=("A","B","C","A")
+# print(list[-2])
+# print(str(list["A"][-1]))
+
+#print(0)
 # def std(nums):
 #     n = len(nums)
 #     avg = sum(nums) / n
